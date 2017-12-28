@@ -1,3 +1,3 @@
 # bash_practice
 bash_exercises
-From Shell scripting book 2011
+From Shell Scripting Book 2011 Steve Parker
